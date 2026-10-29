@@ -1,0 +1,6 @@
+{
+  "name": "FreeLLMAPI Router & Continuity Studio",
+  "description": "Gateway OpenAI-compatível (/v1) com failover automático entre 34 provedores gratuitos (7,4B tokens/mês) e Context Handoff para continuidade ininterrupta de projetos quando os créditos de uma IA se esgotam.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
